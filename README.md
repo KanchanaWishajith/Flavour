@@ -35,8 +35,9 @@ Welcome to **Exploring the Universe of Flavors**, a culinary innovation platform
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
-   ```bash
+  ```bash
    git clone https://github.com/KanchanaWishajith/Flavour.git
+  ```
 
 2. Navigate to the project folder and install dependencies:
   ```bash
@@ -44,7 +45,7 @@ Welcome to **Exploring the Universe of Flavors**, a culinary innovation platform
   npm install
 ```
 
-4. Run the development server:
+3. Run the development server:
   ```bash
   npm start
   ```
