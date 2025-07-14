@@ -26,7 +26,7 @@ Welcome to **Exploring the Universe of Flavors**, a culinary innovation platform
 ## 🧑‍💻 Technologies Used
 
 - **Frontend**: React.js + Tailwind CSS  
-- **Backend**: Node.js / Express (or Laravel, if applicable)  
+- **Backend**: Node.js / Express 
 - **Database**: MongoDB / MySQL  
 - **Authentication**: Google OAuth, JWT (optional)  
 
