@@ -39,9 +39,13 @@ Welcome to **Exploring the Universe of Flavors**, a culinary innovation platform
    git clone https://github.com//flavors-universe.git
 
 2. Navigate to the project folder and install dependencies:
-  cd flavors-universe
+  ```bash
+  cd flavors
   npm install
+```
 
-3. Run the development server:
+4. Run the development server:
+```bash
    npm start
+```
 
