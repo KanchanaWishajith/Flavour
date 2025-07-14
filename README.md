@@ -1,4 +1,5 @@
-# 🍽️ Exploring the Universe of Flavors
+
+<img width="1918" height="926" alt="Flavour SS" src="https://github.com/user-attachments/assets/18bdca86-7897-456a-856b-44fd42faa05c" /># 🍽️ Exploring the Universe of Flavors
 
 Welcome to **Exploring the Universe of Flavors**, a culinary innovation platform designed to bring together food enthusiasts, chefs, and curious cooks. Whether you're discovering new recipes, sharing your own creations, or building your chef profile — this platform is your digital kitchen companion.
 
